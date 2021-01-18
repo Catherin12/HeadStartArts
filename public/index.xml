@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>New post</title>
+      <link>/post/new-post/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/post/new-post/</guid>
+      <description>&lt;p&gt;here is my content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -102,7 +111,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-168927354&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-896421375&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -112,7 +121,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-168927354&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-896421375&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
