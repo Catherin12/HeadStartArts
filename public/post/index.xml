@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | DRAFT Head Start Arts</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,319 +13,240 @@
     </image>
     
     <item>
-      <title>New post</title>
-      <link>/post/new-post/</link>
-      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/post/new-post/</guid>
-      <description>&lt;p&gt;here is my content&lt;/p&gt;
+      <title>Arts Integration and Language</title>
+      <link>/post/arts-integration-and-language/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/arts-integration-and-language/</guid>
+      <description>&lt;p&gt;Most people agree that young children need many opportunities for positive interaction with adults to develop healthy emotions and language skills. Children have these experiences with their adults who care for them, including parents and teachers. Teachers in Head Start gain insight in how to provide these experiences though standards in classroom interactions on the CLASS, and see their results when observing children, like with the DRDP or the TS Gold. But how do we plan these interactions, and how do we make them fun, developmentally appropriate, and part of our regular classroom routines?&lt;/p&gt;
+&lt;p&gt;One way is to integrate arts-based instruction into our regular instruction.&lt;/p&gt;
+&lt;p&gt;We created this series of videos for you! They model basic drama techniques. You can use these videos while you plan your own lessons integrating arts into your work with children. We have included step by step moves, from planning to implementation, for how to integrate verbal and non-verbal scaffolds that specifically support children as they wind their way toward literacy.&lt;/p&gt;
+&lt;p&gt;We intend to help you make connections between socio-emotional and literacy outcomes embedded within your work with children, as they are represented in the CLASS.  We hope you will be able to integrate the techniques into your lesson plans.&lt;/p&gt;
+&lt;p&gt;Not all play is equal. We all play to have fun - and a certain kind of play supports early literacy development - Play does not always mean social interaction. Playful interaction does not necessarily support early literacy. When a child&amp;rsquo;s play is interactive and interpersonal, based on fantasy and enacted through verbal or non verbal communication - we call it &amp;ldquo;social pretend play,&amp;rdquo; or &amp;ldquo;fantasy play,&amp;rdquo; and it supports early literacy!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
-&lt;p&gt;Academic supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; chart format.&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
+      <title>Echo</title>
+      <link>/post/echo/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/echo/</guid>
+      <description>&lt;p&gt;When adults encourage students to communicate their own ideas with their bodies, their face expressions, or with their words, children have room to develop their own perspectives, a key developmental skill that leads to healthy emotional and academic outcomes. 
+Teachers use questions that generate the child’s perspective in an active response, by moving expressively or talking about ideas or emotions.&lt;/p&gt;
+&lt;p&gt;Of course, teachers do this all day long.&lt;/p&gt;
+&lt;p&gt;When teachers encourage students to talk by using new vocabulary or encouraging expressive communication, children have the chance to develop their own oral language: they learn how to use new words or to translate the ideas and emotions in their heads to words for others to understand.&lt;/p&gt;
+&lt;p&gt;[image here of CLASS area/dimention/definition]&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s take a look at how this works with arts integration!&lt;/p&gt;
 
-
-&lt;div id=&#34;chart-896421375&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        return;
-      }
-      clearInterval( a );
-
-      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-896421375&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-latex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
-&lt;p&gt;Academic supports a &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MSFu90e-6pA?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
-&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
-You found me!
-{{&amp;lt; /spoiler &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
-  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
-  &lt;p&gt;You found me!&lt;/p&gt;
-&lt;/details&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
-{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
-{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
 
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
-
-  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+&lt;h2 id=&#34;step-1&#34;&gt;Step 1&lt;/h2&gt;
+&lt;p&gt;[image of books here]&lt;/p&gt;
+&lt;p&gt;The first step is to choose a book, but not just any book! Choose a book with plenty of opportunities for students to engage their bodies, voices and imaginations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/2020-12-30-echo/index.en_files/motion.jpeg&#34; alt=&#34;Flying&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A useful book might include moments for sound effects, lines of dialogue, clear emotions in facial expressions, or small and large physical movements for children to pantomine while remaining in their sit spots.&lt;br&gt;
+Mark each opportunity with a sticky note to remind yourself as you read to stop for an echo.&lt;/p&gt;
+&lt;p&gt;We don&amp;rsquo;t just echo sound, remember we also echo movement and facial expressions showing emotion.&lt;/p&gt;
+&lt;p&gt;[excerpt here from whole video above]&lt;/p&gt;
+&lt;p&gt;Notice that before beginning, this teaching artist leads the students with a warm up called FREEZE. This can be helpful as it establishes a signal for group control that allows the group to do a lot of movement safely. We think it is so important we have devoted a post to this topic [link here to freeze post].&lt;/p&gt;
+&lt;h2 id=&#34;step-2&#34;&gt;Step 2&lt;/h2&gt;
+&lt;p&gt;Model an ECHO for the group to get started.&lt;/p&gt;
+&lt;p&gt;[video excerpt - through to wondering aloud]&lt;/p&gt;
+&lt;p&gt;If the children are new to doing echo with you, provide a variety of choices and guide them to ECHO you using your cue [link here to post on tips to get started]&lt;/p&gt;
+&lt;p&gt;Here we see the teaching artist providing a wide range of verbal options before she asks the students for their ideas. This is helpful when students are new to the routine.  It sets a high bar of engagement and gives them permission to consider any number of vocal choices between loud and soft, smooth and gruff, high and low, silly and serious, etc.&lt;/p&gt;
+&lt;p&gt;Once they are familiar with echoing, you will not need to take as much time.&lt;/p&gt;
+&lt;h2 id=&#34;step-3&#34;&gt;Step 3&lt;/h2&gt;
+&lt;p&gt;Invite volunteers to demonstrate a new idea.&lt;/p&gt;
+&lt;p&gt;[video excerpt to chosing a volunteer]&lt;/p&gt;
+&lt;p&gt;The teaching artist uses the word &amp;ldquo;different&amp;rdquo; very intentionally; as a way of celebrating the wonderful diversity of choices that we can all make with our bodies and voices to show the same idea.  If we can notice and describe the different choices that we make we begin to establish the act of making a choice.&amp;quot;&lt;/p&gt;
+&lt;p&gt;We hook the language literally describing each choice - this one is loud and this one is soft, this one has high eyebrows and this one has scrunched lips.&lt;/p&gt;
+&lt;p&gt;We draw attention to differences and use language to describe what we see. We ask the children to make inferences about what the acting child is feeling by the choices he makes. [link to post on foundations of arts integration]&lt;/p&gt;
+&lt;h2 id=&#34;step-4&#34;&gt;Step 4&lt;/h2&gt;
+&lt;p&gt;Invite the rest of the group to give all their attention to the volunteer&amp;rsquo;s demonstration&lt;/p&gt;
+&lt;p&gt;[excerpt with language encouraging students to observe]&lt;/p&gt;
+&lt;p&gt;Some students are more comfortable than others in stepping out to offer their ideas first and that is okay.&lt;/p&gt;
+&lt;h2 id=&#34;step-5&#34;&gt;Step 5&lt;/h2&gt;
+&lt;p&gt;Describe the volunteer&amp;rsquo;s choices&lt;/p&gt;
+&lt;p&gt;[video excerpt to the end of the description]&lt;/p&gt;
+&lt;p&gt;Earlier the teaching artist was modeling a range of possibilities in a short amount of time.  But when we get to this step, she pauses and provides a simple but specific verbal description of choices the student is making with voice and body. This is a model of how to notice others without translation - the description is literal and specific. [link to socio-emotional information- link to head start standards] We are preparing the group of children here for the echo performance.&lt;/p&gt;
+&lt;h2 id=&#34;step-6&#34;&gt;Step 6&lt;/h2&gt;
+&lt;p&gt;Lead the ECHO&lt;/p&gt;
+&lt;p&gt;[video excerpt to the end of the ECHO sequence]&lt;/p&gt;
+&lt;p&gt;This can be is a very affirming moment for the student! She now has the teacher echoing her, modeling for the rest of the group what they will do, then immediately following, the entire class is echoing the child&amp;rsquo;s choice. &amp;quot;  [link to head start standards for socio-emotional behavior]&lt;/p&gt;
+&lt;h2 id=&#34;step-7&#34;&gt;Step 7&lt;/h2&gt;
+&lt;p&gt;Ask for another volunteer&lt;/p&gt;
+&lt;p&gt;[video excerpt showing language used to emphasize a different idea]&lt;/p&gt;
+&lt;p&gt;Again the teaching artists asks for a different idea.  Sometimes the differences between choices students make are big&amp;hellip; like loud or soft, high or low, smooth or gruff.  Other times the differences are more subtle. That&amp;rsquo;s okay! If children find it challenging to come up with a new idea, they might need further prompting.&lt;/p&gt;
+&lt;h2 id=&#34;step-8&#34;&gt;Step 8&lt;/h2&gt;
+&lt;p&gt;Describe the differences in the volunteer&amp;rsquo;s performances&lt;/p&gt;
+&lt;p&gt;[video excerpt with literal description of what children shared]&lt;/p&gt;
+&lt;p&gt;As you continue the process it is critical to notice, describe, affirm and celebrate differences between volunteers’ choices. This modeling affirms the students as individuals, exposes them to language, and lays groundwork for their own ability to describe others&#39; choices in future work.&lt;/p&gt;
+&lt;h2 id=&#34;breakdown-of-echo-steps&#34;&gt;Breakdown of ECHO steps&lt;/h2&gt;
+&lt;p&gt;Breakdown of steps&lt;/p&gt;
+&lt;p&gt;Pick a book you’ve read to the children before&lt;/p&gt;
+&lt;p&gt;Mark your echo spots&lt;/p&gt;
+&lt;p&gt;Model for children&lt;/p&gt;
+&lt;p&gt;Ask for volunteers&lt;/p&gt;
+&lt;p&gt;Reflect back volunteer choices&lt;/p&gt;
+&lt;p&gt;Model echo&lt;/p&gt;
+&lt;p&gt;Lead echo&lt;/p&gt;
+&lt;p&gt;Tiny url with documents&lt;/p&gt;
+&lt;p&gt;Because this activity takes time, you want to decide how much time you want to spend with this interaction. Likely you will use this on a story the children have heard already, at least the second reading of a text.&lt;/p&gt;
+&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
+&lt;p&gt;ECHO is a very flexible exercise.  It is often used as a warm up before or reflection after other more complex drama activities.  It can be a great pre-reading activity, build upon some prior knowledge about a concept or a set of book characters.&lt;/p&gt;
+&lt;p&gt;[Link to a checklist]&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+      <title>Freeze</title>
+      <link>/post/freeze/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/freeze/</guid>
+      <description>&lt;p&gt;Freeze is a simple but effective warm up! You create a cue for instant silent stillness. Children practice responding to your cue. This routine ensures students can engage in (sometimes chaotic) dramatic movement safely.&lt;/p&gt;
+&lt;h2 id=&#34;step-1&#34;&gt;Step 1&lt;/h2&gt;
+&lt;p&gt;Model the Freeze routine&lt;/p&gt;
+&lt;p&gt;[video]&lt;/p&gt;
+&lt;h2 id=&#34;step-2&#34;&gt;Step 2&lt;/h2&gt;
+&lt;p&gt;Invite a single volunteer to try responding to the Freeze cue&lt;/p&gt;
+&lt;p&gt;Young children may not be able to freeze every single body part. That is ok! Draw children&amp;rsquo;s attention to some part of the volunteer&amp;rsquo;s body that is frozen (hand, arm, elbow, shoe).&lt;/p&gt;
+&lt;h2 id=&#34;step-3&#34;&gt;Step 3&lt;/h2&gt;
+&lt;p&gt;Invite a new volunteer to respond to the Freeze cue&lt;/p&gt;
+&lt;p&gt;Once again, reinforce the intention of the Freeze routine by drawing attention to a part of the volunteer&amp;rsquo;s body that was instantly silent and still.&lt;/p&gt;
+&lt;h2 id=&#34;step-4&#34;&gt;Step 4&lt;/h2&gt;
+&lt;p&gt;Now invite the whole class.&lt;/p&gt;
+&lt;p&gt;Be sure to name and affirm a success for each child before continuing on with the rest of the warm up.&lt;/p&gt;
+&lt;p&gt;Add variations such as body parts (wiggle your arms, legs, head, shoulders etc.) or levels (wiggle up high, down low etc) or speed (wiggle fast and slow).  This is a wonderful opportunity to introduce and reinforce rich new vocabulary.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>/post/interview/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/interview/</guid>
+      <description>&lt;p&gt;INTERVIEW can be a great way to give students a chance to verbalize things that are going on in their imaginations.  It is most successful when used soon after the students have had an experience where they used both body and voice to pretend that they are a character in a story.  Because of this it is a perfect follow up to SOLO but it might be interesting to use following an active time in the dramatic play area of a classroom.  Depending on the student&amp;rsquo;s prior knowledge, it might be helpful to show them photos/video of news interviewers in action.&lt;/p&gt;
+&lt;p&gt;[Video of interview routine]&lt;/p&gt;
+&lt;h2 id=&#34;step-1&#34;&gt;Step 1&lt;/h2&gt;
+&lt;p&gt;Tell students they will pretend to be a character from a story as you pretend to be an interviewer.&lt;/p&gt;
+&lt;p&gt;[image of a recording device]&lt;/p&gt;
+&lt;h2 id=&#34;step-2&#34;&gt;Step 2&lt;/h2&gt;
+&lt;p&gt;Show the students the imaginary microphone you will use a prop.&lt;/p&gt;
+&lt;p&gt;[video of susanna demonstrating the imaginary microphone]&lt;/p&gt;
+&lt;p&gt;It is amazing what a powerful difference it makes when students speak into an imaginary microphone.  It can be anything&amp;hellip; a simple drum stick or even a wooden spoon.  As long as the teacher commits to pretending it is picking up their voice, students follow right along and instinctively &amp;ldquo;take&amp;rdquo; to the idea of speaking directly into it.&lt;/p&gt;
+&lt;h2 id=&#34;step-3&#34;&gt;Step 3&lt;/h2&gt;
+&lt;p&gt;Model an example of an interview question with improvised answers.&lt;/p&gt;
+&lt;p&gt;[video of susanna and a helper modeling an interview question being asked three times and answerd in three different improvised ways]&lt;/p&gt;
+&lt;p&gt;When the students are very young and new to INTERVIEW it is really worth the time to model improvised answers to interview questions. Be sure to model a range of answers from complex to a simple single word response.&lt;/p&gt;
+&lt;h2 id=&#34;step-4&#34;&gt;Step 4&lt;/h2&gt;
+&lt;p&gt;Briefly demonstrate for the students the audio recording device you use.&lt;/p&gt;
+&lt;p&gt;[video of susanna having the puppets help them with  recording a &amp;ldquo;testing one two three&amp;rdquo;  and then listening to it together]&lt;/p&gt;
+&lt;p&gt;Young students are very excited to hear their own voices on an audio recording; sometime it&amp;rsquo;s even more captivating than seeing themselves on video, which has become a more common part of daily life.&lt;/p&gt;
+&lt;h2 id=&#34;step-5&#34;&gt;Step 5&lt;/h2&gt;
+&lt;p&gt;Begin the interview!&lt;/p&gt;
+&lt;p&gt;[video of susanna putting on a costume piece etc.]&lt;/p&gt;
+&lt;p&gt;It really helps to find a way to transition yourself and the students from &amp;ldquo;normal time&amp;rdquo; to &amp;ldquo;pretending time&amp;rdquo; and back again when the interview is over.   It could be as simple as putting on a hat or turning around or changing your tone of voice and/or even turning on the audio recording device.  Keep in mind that your own level of engagement in the pretending sets a bar of expectation for the students.&lt;/p&gt;
+&lt;h2 id=&#34;step-6&#34;&gt;Step 6&lt;/h2&gt;
+&lt;p&gt;Ask  one or more open ended questions.&lt;/p&gt;
+&lt;p&gt;[video of susanna interviewing puppets as though they are the gingerbread man]&lt;/p&gt;
+&lt;p&gt;As students answer your interview questions, remember to expand on answers that are brief into complete sentences.  Keep your questions open-ended; for example: &amp;ldquo;What happened?&amp;rdquo; &amp;ldquo;How did you or feel when&amp;hellip;?&amp;rdquo; or &amp;ldquo;What is fun about being a gingerbread man?&amp;rdquo; To maximize engagement and minimize wait time, divide the class into small groups and delegate the role of interviewer to several adults in the room so that several interviews can be happening simultaneously then regroup to share out all together as a group. &lt;br&gt;
+Some preschoolers are even ready to take on the role of interviewer themselves.&lt;/p&gt;
+&lt;h2 id=&#34;step-7&#34;&gt;Step 7&lt;/h2&gt;
+&lt;p&gt;Take a break!&lt;/p&gt;
+&lt;p&gt;After this highly focussed verbal activity, the students often need some kind of kinesthetic break such as a dance break or recess before listening to their audio recording.  You might even want to hold of on having them sit still to listen to their audio recording until the end of the day or the next morning.&lt;/p&gt;
+&lt;h2 id=&#34;step-8&#34;&gt;Step 8&lt;/h2&gt;
+&lt;p&gt;Listen to the interview!&lt;/p&gt;
+&lt;p&gt;[image of students listening to recording-I think I have one]&lt;/p&gt;
+&lt;p&gt;The students are captivated at listening for the sound of their own voices and words on the recording.  As you listen together, silently celebrate each voice that you hear by pointing out who is speaking with a gesture or even a colored flashlight.  After the interview is over, describe  a few choices that you noticed students making with their improvisations: times when you could hear them loud and clear, times when they added interesting words, times when they sounded like their character etc.  Consider having student ECHO some of these choices together as a whole class.&lt;/p&gt;
+&lt;h2 id=&#34;step-9-optional&#34;&gt;Step 9 (Optional)&lt;/h2&gt;
+&lt;p&gt;Consider adding follow up interviews during choice time.&lt;/p&gt;
+&lt;p&gt;Now that the fun of recording interviews has been established, consider making it a part of choice time by interviewing students individually and listening to their recorded voices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solo</title>
+      <link>/post/solo/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/solo/</guid>
+      <description>&lt;p&gt;Solo allows you guide your students through a portion of a story plot while they imagine that they a main character. Use SOLO when your story has a main who enacts a sequence of physical actions, like the Very Hungry Caterpillar who eats lots of food, builds a chrysalis then emerges as a flying butterfly.&lt;/p&gt;
+&lt;p&gt;Another good example is Max from Where the Wild Things Are, who stares into the eyes of the Wild Things then dances, swings from trees, and marches with them.&lt;/p&gt;
+&lt;p&gt;[video here of solo]&lt;/p&gt;
+&lt;h2 id=&#34;step-1&#34;&gt;Step 1&lt;/h2&gt;
+&lt;p&gt;Choose a story&lt;/p&gt;
+&lt;p&gt;[picture of storybooks]
+image:
+caption: &#39;&#39;
+focal_point: &#39;&#39;
+preview_only: no&lt;/p&gt;
+&lt;h2 id=&#34;step-2&#34;&gt;Step 2&lt;/h2&gt;
+&lt;p&gt;Write a sequence of active prompts following the physical actions of the main character.&lt;/p&gt;
+&lt;p&gt;[picture of a handwritten version of the solo script ]
+image:
+caption: &amp;lsquo;Example Solo Script&amp;rsquo;
+focal_point: &#39;&#39;
+preview_only: no&lt;/p&gt;
+&lt;p&gt;You can see in this script example, it helps to begin each line of the narrative with an active verb. In a traditional narrative pantomime students do not make sound, but in some instances it can work nicely to add a brief repetitive line for the character to speak aloud.&lt;/p&gt;
+&lt;h2 id=&#34;step-3&#34;&gt;Step 3&lt;/h2&gt;
+&lt;p&gt;Read the book to the children.&lt;/p&gt;
+&lt;p&gt;[video of susanna reading the story to wolf and bear]&lt;/p&gt;
+&lt;p&gt;Your group should be familiar with the story from previous readings. Before reading, tell the group they will soon pretend to be this character. Encourage everyone to pay special attention to what the character does in the story as you read.&lt;/p&gt;
+&lt;h2 id=&#34;step-4-optional&#34;&gt;Step 4 (optional)&lt;/h2&gt;
+&lt;p&gt;Depending on the need of your students, model the acting out of the solo for the students.&lt;/p&gt;
+&lt;p&gt;[video of either susanna modeling or susanna having isaak model while susanna reads the solo aloud]&lt;/p&gt;
+&lt;p&gt;If you have dual language learners in your classroom is can be very helpful to model the solo for them first.  There are a couple of ways to do this.  You can model it yourself by telling the narrative in first person and acting it out as you talk, for example &amp;ldquo;I am the gingerbread boy.  You wouldn&amp;rsquo;t believe what happened to me the other day.. I was a ball of dough&amp;hellip; &amp;quot; or if you&amp;rsquo;re lucky you might have another adult caregiver in the room willing to pantomime the actions, following your prompts as you read the narrative for them.&amp;rdquo;  Either way, very young students appreciate the chance to see an adult in their life willing to take a risk and being playful and dramatic.&lt;/p&gt;
+&lt;h2 id=&#34;step-5&#34;&gt;Step 5&lt;/h2&gt;
+&lt;p&gt;Give everyone enough room to move!&lt;/p&gt;
+&lt;p&gt;[video of tape, circle spots etc.]&lt;/p&gt;
+&lt;p&gt;You want to make sure every student has a specific spot on the floor where they have a bubble of space around them; where they will remain throughout their solo.  Some classrooms call this a &amp;ldquo;kinesphere&amp;rdquo;. Generally, if while standing in their spot they can put their arms out in front, to their sides and behind them without touching another child they will have the space they need.  Sometimes we mark each student&amp;rsquo;s spot on the floor with a piece of tape or a circle spot.&lt;/p&gt;
+&lt;h2 id=&#34;step-6&#34;&gt;Step 6&lt;/h2&gt;
+&lt;p&gt;Practice the challenging parts of the solo together.&lt;/p&gt;
+&lt;p&gt;[video of susanna leading echo with the puppets]&lt;/p&gt;
+&lt;p&gt;Some of the moments in your solo are going to be more challenging than others for the students to act out.  It&amp;rsquo;s a good idea to try identify what they are ahead of time and give the students a chance to practice them before the solo begins. In this instance the teaching artist identified things like showing you are a lump of dough, running fast without leaving your spot, getting eaten up, and saying the line &amp;ldquo;Catch me if you can!&amp;rdquo;  The ECHO warm up that we taught you in a previous video can be very helpful here.  A few rounds of ECHO can also give you an opportunity to remind the children that the don&amp;rsquo;t have to copy the model that you just demonstrated exactly.  Rather, remind them that you hope they will act out the story in their own unique and different way.&lt;/p&gt;
+&lt;h2 id=&#34;step-7&#34;&gt;Step 7&lt;/h2&gt;
+&lt;p&gt;Narrate the solo while they act it out&lt;/p&gt;
+&lt;p&gt;[video of susanna reading the solo while the puppets act it out]&lt;/p&gt;
+&lt;p&gt;You really want to keep your eye on the students as they pantomime the solo.  Sometimes they need more time and so you might find yourself repeating the same word or line several times&amp;hellip; like &amp;ldquo;You run! and run! and run!&amp;rdquo; Other times you will discover that they&amp;rsquo;re getting tired sooner than you expected so you might find yourself editing a few moments out of your originally planned script.  Be a storyteller! If you bring enthusiasm and engagement to your narration they will be inspired to put that energy into their performances.  We describe SOLOs as &amp;ldquo;parallel play&amp;rdquo; in that the students are all performing simultaneously but not interacting with one another; consequently they&amp;rsquo;re a great low risk way for all students to become performers in the classroom because there is no audience watching them to make them feel self-conscious.  Depending on the story, sometimes they are slow and gentle, other times they can be a terrific cardio experience.  For highly active SOLOs it can be helpful to begin them in a moment of stillness, and then return gradually to stillness at the end so that the students have a time to cool down.&lt;/p&gt;
+&lt;h2 id=&#34;step-8&#34;&gt;Step 8&lt;/h2&gt;
+&lt;p&gt;Remember and re-enact favorite moments.&lt;/p&gt;
+&lt;p&gt;[video of susanna and puppets reflecting together and susanna expanding on one of the pupp&amp;rsquo;s answers ]&lt;/p&gt;
+&lt;p&gt;Depending on the needs and age of the class, it can work well to reflect after the SOLO by ask &amp;ldquo;What is choice you made that you liked from your solo?” If the language in their answer is incomplete, take a moment to expand on their answer before inviting the volunteer to perform their moment for the class.&lt;/p&gt;
+&lt;h2 id=&#34;or-perform-the-solo-for-one-another-again&#34;&gt;Or&amp;hellip; perform the solo for one another again.&lt;/h2&gt;
+&lt;p&gt;[video of susanna and wolf watching bear perform together and susanna asking wolf what she notices ]&lt;/p&gt;
+&lt;p&gt;Other times, particularly with older students it works well to divide the class in half with students on one side of the room being audience and the other side being performers on the stage.  Have the performers perform the solo again for the audience, invite the audience to tell the performers what they likes about their pantomime before switching places so that everyone has had a chance to act out the solo in front of an audience.&lt;/p&gt;
+&lt;h2 id=&#34;great-books-for-solo-in-prek&#34;&gt;Great Books for Solo in PreK&lt;/h2&gt;
+&lt;p&gt;Where the Wild Things Are
+The Gruffalo
+Snow Day [list all with links and authors]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tips for getting started</title>
+      <link>/post/tips-for-getting-started/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/tips-for-getting-started/</guid>
+      <description>&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Make sure your classroom is set up to allow everyone to move safely in the space.&lt;/p&gt;
+&lt;p&gt;Depending on the activity, sometimes this means making your traditional story circle larger than usual so that students can stretch out arms from side to side without bumping into their neighbors.&lt;/p&gt;
+&lt;p&gt;Other times it means adjusting furniture placement to allow pathways for travel.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Introduce the word “imagination” by inviting them to share stories of how and what they like to pretend.&lt;br&gt;
+[sentence frame here]&lt;/p&gt;
+&lt;p&gt;As they share their stories, highlight times they used their bodies or voices in their pretending. 
+[setence frame here]&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Create a cue to use whenever you want to signal your students to copy or “echo” someone’s voice or actions.&lt;/p&gt;
+&lt;p&gt;Susanna modeling 2nd example of an echo cue&lt;/p&gt;
+&lt;p&gt;Susanna modeling 3rd example of an echo cue&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It takes a bit of trial and error to find a cue that works for you and your students.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s important to find something comfortable for you. Consistency is critical to help children avoid confusion.  Eventually you and your class fall into a familiar rhythm which is especially helpful for dual language learners.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Drama gets exciting so consider establishing your own consistent calming routine with the students to have in place to use when needed. 
+[video of Susanna using the &amp;lsquo;come back to the circle&amp;rsquo; song]&lt;/p&gt;
 </description>
     </item>
     
