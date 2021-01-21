@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
-subtitle: ''
+title: For Your Information
+subtitle: 'Documents and background information about this project'
 
 content:
   # Page type to display. E.g. post, talk, publication...
