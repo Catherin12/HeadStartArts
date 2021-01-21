@@ -31,8 +31,7 @@ When teachers encourage students to talk by using new vocabulary or encouraging 
 
 Let's take a look at how this works with arts integration!
 
-{{< youtube id="MSFu90e-6pA" autoplay="true" >}}
-
+{{< vimeo id="502217676" autoplay="true" >}}
 
 ## Step 1
 
@@ -40,7 +39,7 @@ Let's take a look at how this works with arts integration!
   
 The first step is to choose a book, but not just any book! Choose a book with plenty of opportunities for students to engage their bodies, voices and imaginations. 
 
-![Flying](/2020-12-30-echo/index.en_files/motion.jpeg)
+[insert image here]
   
 A useful book might include moments for sound effects, lines of dialogue, clear emotions in facial expressions, or small and large physical movements for children to pantomine while remaining in their sit spots.  
 Mark each opportunity with a sticky note to remind yourself as you read to stop for an echo.
