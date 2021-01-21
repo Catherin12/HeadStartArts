@@ -33,28 +33,113 @@
   </url>
   
   <url>
-    <loc>/post/new-post/</loc>
-    <lastmod>2021-01-15T12:59:13-04:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-12-30T17:29:32-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/arts-integration-and-language/</loc>
+    <lastmod>2020-12-30T17:32:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/background/</loc>
+    <lastmod>2020-12-30T17:32:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-12-30T17:32:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/echo/</loc>
+    <lastmod>2020-12-30T17:27:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/expressive/</loc>
+    <lastmod>2020-12-30T17:30:01-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/expressive/</loc>
+    <lastmod>2020-12-30T17:27:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/foundation/</loc>
+    <lastmod>2020-12-30T17:32:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/freeze/</loc>
+    <lastmod>2020-12-30T17:28:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/interview/</loc>
+    <lastmod>2020-12-30T17:30:01-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/language/</loc>
+    <lastmod>2020-12-30T17:30:01-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/non-verbal/</loc>
+    <lastmod>2020-12-30T17:27:44-08:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2021-01-15T12:59:13-04:00</lastmod>
+    <lastmod>2020-12-30T17:32:27-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>/tag/receptive/</loc>
+    <lastmod>2020-12-30T17:28:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/receptive/</loc>
+    <lastmod>2020-12-30T17:27:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/social-emotional/</loc>
+    <lastmod>2020-12-30T17:31:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/solo/</loc>
+    <lastmod>2020-12-30T17:29:32-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-30T17:29:32-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-30T17:32:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/theory/</loc>
+    <lastmod>2020-12-30T17:32:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tips-for-getting-started/</loc>
+    <lastmod>2020-12-30T17:31:23-08:00</lastmod>
   </url>
   
   <url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,11 +150,6 @@
   <url>
     <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,13 +168,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc></loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,22 +188,7 @@
   </url>
   
   <url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,11 +199,6 @@
   
   <url>
     <loc>/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -200,10 +255,6 @@
   <url>
     <loc>/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
   </url>
   
 </urlset>

@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Please email or call with questions!
 
 content:
   # Automatically link email and phone or display as text?
