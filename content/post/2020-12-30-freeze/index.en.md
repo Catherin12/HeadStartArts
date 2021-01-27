@@ -39,6 +39,8 @@ Young children may not be able to freeze every single body part. That is ok! Dra
 
 Invite a new volunteer to respond to the Freeze cue
 
+{{< vimeo 505289975 >}}
+
 Once again, reinforce the intention of the Freeze routine by drawing attention to a part of the volunteer's body that was instantly silent and still.
 
 ## Step 4
