@@ -25,7 +25,7 @@ Freeze is a simple but effective warm up! You create a cue for instant silent st
 
 Model the Freeze routine
 
-[video]
+{{< vimeo 505260562 >}}
 
 ## Step 2 
 
