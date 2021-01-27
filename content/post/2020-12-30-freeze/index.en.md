@@ -43,14 +43,14 @@ Invite a new volunteer to respond to the Freeze cue
 
 Once again, reinforce the intention of the Freeze routine by drawing attention to a part of the volunteer's body that was instantly silent and still.
 
-{{< vimeo 505290382 >}}
-
 ## Step 4
 
 Now invite the whole class.  
 
-{{< vimeo 505290508 >}}
+{{< vimeo 505290382 >}}
 
-Be sure to name and affirm a success for each child before continuing on with the rest of the warm up.  
+Be sure to name and affirm a success for each child before continuing on with the rest of the warm up. 
+
+{{< vimeo 505290508 >}}
 
 Add variations such as body parts (wiggle your arms, legs, head, shoulders etc.) or levels (wiggle up high, down low etc) or speed (wiggle fast and slow).  This is a wonderful opportunity to introduce and reinforce rich new vocabulary.   
