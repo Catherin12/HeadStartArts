@@ -31,6 +31,8 @@ Model the Freeze routine
 
 Invite a single volunteer to try responding to the Freeze cue
 
+{{< vimeo 505289964 >}}
+
 Young children may not be able to freeze every single body part. That is ok! Draw children's attention to some part of the volunteer's body that is frozen (hand, arm, elbow, shoe). 
 
 ## Step 3
