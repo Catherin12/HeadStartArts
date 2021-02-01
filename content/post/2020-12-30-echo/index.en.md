@@ -34,7 +34,7 @@ Let's take a look at how this works with drama arts integration!
 
 Now let's break this down step-by-step:
 
-## Step 1
+### Step 1
 
 [image of books here]
   
@@ -44,25 +44,25 @@ The first step is to choose a book, but not just any book! Choose a book with pl
   
 A useful book might include moments for... 
 
-## Sound Effects
+#### Sound Effects
 
 {{< figure src="gurrafalo.jpg" >}} 
 
 {{< vimeo 505729907 height 280 >}}
 
-## lines of dialogue
+#### lines of dialogue
 
 {{< figure src="dialogue in book.jpg" >}}
 
 {{< vimeo 505730165 height 280 >}}
 
-## facial expressions
+#### facial expressions
 
 {{< figure src="facial expression.jpg" >}}
 
 {{< vimeo 505729512 height 280 >}}
 
-## or physical movements for children to pantomine in their sit spots.
+#### or physical movements for children to pantomine in their sit spots.
 
 {{< figure src="flying bird.jpg" >}}
 
@@ -73,23 +73,23 @@ Mark each opportunity with a sticky note to remind yourself as you read to stop 
 
 We don't just echo sound. We also echo movement and facial expressions showing emotion.
 
-Notice that before beginning, this teaching artist leads the students with a warm up called FREEZE[^1]. 
+> Notice that before beginning, this teaching artist leads the students with a warm up called FREEZE[^1]. 
 
-[^1]: The freeze routine establishes a signal that allows the group to do a lot of movement safely. We think it is so important we have devoted a post to this topic.
+[^1]: The freeze routine establishes a signal that allows the group to do a lot of movement safely. We think it is so important we have devoted a [post to this topic.]
 
-## Step 2
+### Step 2
 
 Model an ECHO for the group to get started.
 
 {{< vimeo 505730997 height 280 >}}
 
-If the children are new to doing echo with you, provide a variety of choices and guide them to ECHO you using your cue [link here to post on tips to get started]
+> If the children are new to doing echo with you, provide a variety of choices and guide them to ECHO you using your cue [link here to post on tips to get started]
 
 Here we see the teaching artist providing a wide range of verbal options before she asks the students for their ideas. This is helpful when students are new to the routine.  It sets a high bar of engagement and gives them permission to consider any number of vocal choices between loud and soft, smooth and gruff, high and low, silly and serious, etc. 
 
 Once they are familiar with echoing, you will not need to take as much time.
 
-## Step 3
+### Step 3
 
 Invite volunteers to demonstrate a new idea.
 
@@ -101,7 +101,7 @@ We hook the language literally describing each choice - this one is loud and thi
 
 We draw attention to differences and use language to describe what we see. We ask the children to make inferences about what the acting child is feeling by the choices he makes. [link to post on foundations of arts integration]
 
-## Step 4
+### Step 4
 
 Invite the rest of the group to give all their attention to the volunteer's demonstration
 
@@ -109,15 +109,15 @@ Invite the rest of the group to give all their attention to the volunteer's demo
 
 Some students are more comfortable than others in stepping out to offer their ideas first and that is okay.  
 
-## Step 5
+### Step 5
 
 Describe the volunteer's choices
 
 {{< vimeo 505731231 height 280 >}}
 
-Earlier the teaching artist was modeling a range of possibilities in a short amount of time.  But when we get to this step, she pauses and provides a simple but specific verbal description of choices the student is making with voice and body. This is a model of how to notice others without translation - the description is literal and specific. [link to socio-emotional information- link to head start standards] We are preparing the group of children here for the echo performance.
+Earlier the teaching artist was modeling a range of possibilities in a short amount of time.  But when we get to this step, she pauses and provides a simple but _specific_ verbal description of choices the student is making with voice and body. This is a model of how to notice others without translation - the description is **literal** and **specific**. [link to socio-emotional information- link to head start standards] We are preparing the group of children here for the echo performance.
 
-## Step 6
+### Step 6
 
 Lead the ECHO
 
@@ -125,7 +125,7 @@ Lead the ECHO
 
 This can be is a very affirming moment for the student! She now has the teacher echoing her, modeling for the rest of the group what they will do, then immediately following, the entire class is echoing the child's choice. "  [link to head start standards for socio-emotional behavior]
 
-## Step 7
+### Step 7
 
 Ask for another volunteer
 
@@ -133,7 +133,7 @@ Ask for another volunteer
 
 Again the teaching artists asks for a different idea.  Sometimes the differences between choices students make are big... like loud or soft, high or low, smooth or gruff.  Other times the differences are more subtle. That's okay! If children find it challenging to come up with a new idea, they might need further prompting.  
 
-## Step 8
+### Step 8
 
 Describe the differences in the volunteer's performances
 
@@ -143,30 +143,25 @@ As you continue the process it is critical to notice, describe, affirm and celeb
 
 ## Breakdown of ECHO steps
 
-Breakdown of steps 
+_Preparation_
+- Pick a book you’ve read to the children before 
+- Mark your echo spots in the text
+- Plan your example choices for each spot
 
-Pick a book you’ve read to the children before 
+_Instruction_
 
-Mark your echo spots 
-
-Model for children 
-
-Ask for volunteers 
-
-Reflect back volunteer choices 
-
-Model echo 
-
-Lead echo 
-
- 
+1. Model choices for children 
+2. Ask for a volunteer to present a different choice
+3. Verbally reflect back volunteer choices 
+4. Model echo for the whole group
+5. Lead echo for the whole group
 
 Tiny url with documents 
 
-Because this activity takes time, you want to decide how much time you want to spend with this interaction. Likely you will use this on a story the children have heard already, at least the second reading of a text. 
+This activity can take from 5 to 15 minutes. Use this routine on a story the children have heard already, or at least the second reading of a text. 
 
 ## Flexibility 
-ECHO is a very flexible exercise.  It is often used as a warm up before or reflection after other more complex drama activities.  It can be a great pre-reading activity, build upon some prior knowledge about a concept or a set of book characters. 
+ECHO is a very flexible exercise.  It is often used as a warm up before or a reflection after other more complex drama activities.  It can be a great pre-reading activity, build upon some prior knowledge about a concept or a set of book characters. 
 
 [Link to a checklist]
 
