@@ -40,7 +40,7 @@ Now let's break this down step-by-step:
   
 The first step is to choose a book, but not just any book! Choose a book with plenty of opportunities for students to engage their bodies, voices and imaginations. 
 
-[insert image here]
+{{< figure src="books.jpg" >}}
   
 A useful book might include moments for... 
 
@@ -52,35 +52,36 @@ A useful book might include moments for...
 
 ## lines of dialogue
 
+{{< figure src="dialogue in book.jpg" >}}
+
 {{< vimeo 505730165 height 280 >}}
 
 ## facial expressions
+
+{{< figure src="facial expression.jpg" >}}
 
 {{< vimeo 505729512 height 280 >}}
 
 ## or physical movements for children to pantomine in their sit spots.
 
+{{< figure src="flying bird.jpg" >}}
+
 {{< vimeo 505730687 height 280 >}}
-
-  
-
-
 
 
 Mark each opportunity with a sticky note to remind yourself as you read to stop for an echo.
 
-We don't just echo sound, remember we also echo movement and facial expressions showing emotion.
+We don't just echo sound. We also echo movement and facial expressions showing emotion.
 
-[excerpt here from whole video above]
+Notice that before beginning, this teaching artist leads the students with a warm up called FREEZE[^1]. 
 
-Notice that before beginning, this teaching artist leads the students with a warm up called FREEZE. This can be helpful as it establishes a signal for group control that allows the group to do a lot of movement safely. We think it is so important we have devoted a post to this topic [link here to freeze post].
-
+[^1]: The freeze routine establishes a signal that allows the group to do a lot of movement safely. We think it is so important we have devoted a post to this topic.
 
 ## Step 2
 
 Model an ECHO for the group to get started.
 
-[video excerpt - through to wondering aloud]
+{{< vimeo 505730997 height 280 >}}
 
 If the children are new to doing echo with you, provide a variety of choices and guide them to ECHO you using your cue [link here to post on tips to get started]
 
@@ -92,7 +93,7 @@ Once they are familiar with echoing, you will not need to take as much time.
 
 Invite volunteers to demonstrate a new idea.
 
-[video excerpt to chosing a volunteer]
+{{< vimeo 505731130 height 280 >}}
 
 The teaching artist uses the word "different" very intentionally; as a way of celebrating the wonderful diversity of choices that we can all make with our bodies and voices to show the same idea.  If we can notice and describe the different choices that we make we begin to establish the act of making a choice."
 
@@ -104,7 +105,7 @@ We draw attention to differences and use language to describe what we see. We as
 
 Invite the rest of the group to give all their attention to the volunteer's demonstration
 
-[excerpt with language encouraging students to observe]
+[we don't have echo.8 do we?]
 
 Some students are more comfortable than others in stepping out to offer their ideas first and that is okay.  
 
@@ -112,7 +113,7 @@ Some students are more comfortable than others in stepping out to offer their id
 
 Describe the volunteer's choices
 
-[video excerpt to the end of the description]
+{{< vimeo 505731231 height 280 >}}
 
 Earlier the teaching artist was modeling a range of possibilities in a short amount of time.  But when we get to this step, she pauses and provides a simple but specific verbal description of choices the student is making with voice and body. This is a model of how to notice others without translation - the description is literal and specific. [link to socio-emotional information- link to head start standards] We are preparing the group of children here for the echo performance.
 
@@ -120,7 +121,7 @@ Earlier the teaching artist was modeling a range of possibilities in a short amo
 
 Lead the ECHO
 
-[video excerpt to the end of the ECHO sequence]
+{{< vimeo 505731382 height 280 >}}
 
 This can be is a very affirming moment for the student! She now has the teacher echoing her, modeling for the rest of the group what they will do, then immediately following, the entire class is echoing the child's choice. "  [link to head start standards for socio-emotional behavior]
 
@@ -128,7 +129,7 @@ This can be is a very affirming moment for the student! She now has the teacher 
 
 Ask for another volunteer
 
-[video excerpt showing language used to emphasize a different idea]
+{{< vimeo 505731460 height 280 >}}
 
 Again the teaching artists asks for a different idea.  Sometimes the differences between choices students make are big... like loud or soft, high or low, smooth or gruff.  Other times the differences are more subtle. That's okay! If children find it challenging to come up with a new idea, they might need further prompting.  
 
@@ -136,7 +137,7 @@ Again the teaching artists asks for a different idea.  Sometimes the differences
 
 Describe the differences in the volunteer's performances
 
-[video excerpt with literal description of what children shared]
+{{< vimeo 505731684 height 280 >}}
 
 As you continue the process it is critical to notice, describe, affirm and celebrate differences between volunteers’ choices. This modeling affirms the students as individuals, exposes them to language, and lays groundwork for their own ability to describe others' choices in future work.  
 
