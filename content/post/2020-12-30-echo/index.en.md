@@ -42,14 +42,31 @@ The first step is to choose a book, but not just any book! Choose a book with pl
 
 [insert image here]
   
-A useful book might include moments for sound effects
+A useful book might include moments for... 
 
-{{< figure src="gurrafalo.jpg" title="Sound" >}}
+## Sound Effects
+
+{{< figure src="gurrafalo.jpg" >}} 
 
 {{< vimeo 505729907 height 280 >}}
 
+## lines of dialogue
 
-lines of dialogue, clear emotions in facial expressions, or small and large physical movements for children to pantomine while remaining in their sit spots.  
+{{< vimeo 505730165 height 280 >}}
+
+## facial expressions
+
+{{< vimeo 505729512 height 280 >}}
+
+## or physical movements for children to pantomine in their sit spots.
+
+{{< vimeo 505730687 height 280 >}}
+
+  
+
+
+
+
 Mark each opportunity with a sticky note to remind yourself as you read to stop for an echo.
 
 We don't just echo sound, remember we also echo movement and facial expressions showing emotion.
