@@ -16,14 +16,12 @@ featured: no
 image:
   caption: 'Image Credit: Susanna Olson, 2020'
   focal_point: ''
-  placement: 3
+  placement: 1
   preview_only: no
 projects: []
 ---
 When adults encourage students to communicate their own ideas with their bodies, their face expressions, or with their words, children have room to develop their own perspectives, a key skill that leads to healthy emotional and academic outcomes [insert reference here to Head Start Guides or standards, or the TS Gold/DRDP items]. 
 Teachers use questions that generate the child’s perspective in an active response, by moving expressively or talking about ideas or emotions.  
-
-Of course, teachers do this all day long.  
 
 When teachers encourage students to talk by using new vocabulary or encouraging other forms of expressive communication, children can develop their own oral language abilities: they learn how to use new words or to translate the ideas and emotions in their heads to into expressive language. 
 
@@ -32,6 +30,7 @@ When teachers encourage students to talk by using new vocabulary or encouraging 
 Let's take a look at how this works with drama arts integration!
 
 {{< vimeo 505732340 >}}
+
 
 Now let's break this down step-by-step:
 
@@ -47,7 +46,8 @@ A useful book might include moments for sound effects
 
 {{< figure src="gurrafalo.jpg" title="Sound" >}}
 
-{{< vimeo 505729907 >}}
+{{< vimeo 505729907 height 280 >}}
+
 
 lines of dialogue, clear emotions in facial expressions, or small and large physical movements for children to pantomine while remaining in their sit spots.  
 Mark each opportunity with a sticky note to remind yourself as you read to stop for an echo.
