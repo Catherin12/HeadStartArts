@@ -101,15 +101,11 @@ We hook the language literally describing each choice - this one is loud and thi
 
 We draw attention to differences and use language to describe what we see. We ask the children to make inferences about what the acting child is feeling by the choices he makes. [link to post on foundations of arts integration]
 
-### Step 4
-
 Invite the rest of the group to give all their attention to the volunteer's demonstration
-
-[we don't have echo.8 do we?]
 
 Some students are more comfortable than others in stepping out to offer their ideas first and that is okay.  
 
-### Step 5
+### Step 4
 
 Describe the volunteer's choices
 
@@ -117,7 +113,7 @@ Describe the volunteer's choices
 
 Earlier the teaching artist was modeling a range of possibilities in a short amount of time.  But when we get to this step, she pauses and provides a simple but _specific_ verbal description of choices the student is making with voice and body. This is a model of how to notice others without translation - the description is **literal** and **specific**. [link to socio-emotional information- link to head start standards] We are preparing the group of children here for the echo performance.
 
-### Step 6
+### Step 5
 
 Lead the ECHO
 
@@ -125,7 +121,7 @@ Lead the ECHO
 
 This can be is a very affirming moment for the student! She now has the teacher echoing her, modeling for the rest of the group what they will do, then immediately following, the entire class is echoing the child's choice. "  [link to head start standards for socio-emotional behavior]
 
-### Step 7
+### Step 6
 
 Ask for another volunteer
 
@@ -133,7 +129,7 @@ Ask for another volunteer
 
 Again the teaching artists asks for a different idea.  Sometimes the differences between choices students make are big... like loud or soft, high or low, smooth or gruff.  Other times the differences are more subtle. That's okay! If children find it challenging to come up with a new idea, they might need further prompting.  
 
-### Step 8
+### Step 7
 
 Describe the differences in the volunteer's performances
 

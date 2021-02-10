@@ -1,4 +1,4 @@
----
+.---
 title: Arts Integration and Language
 author: Catherine Miller
 date: '2020-12-30'
@@ -19,6 +19,14 @@ image:
   preview_only: no
 projects: []
 ---
+Think about a time you had to learn something new. Was there a new word you had to learn? Did you need to hear someone else say it before you could try it yourself? How much practice did you need before you felt confident you could use it in daily conversation? 
+
+Children learn new words every day, and they learn them from hearing others use new words and then trying them on themselves. 
+
+That is why effective early instruction standards guide teachers to encourage children to talk through effective questioning, expanding children’s involvement in conversations, expanding the range of a child’s visual, auditory, and movement opportunities.
+
+Teachers are guided to provide hints and assistance, scaffolds that support children using new vocabulary words. Teachers are guided to encourage students to explain their thinking with follow-up questions and specific feedback on what they see a child doing or saying to communicate ideas and emotions.
+
 Most people agree that young children need many opportunities for positive interaction with adults to develop healthy emotions and language skills. Children have these experiences with their adults who care for them, including parents and teachers. Teachers in Head Start gain insight in how to provide these experiences though standards in classroom interactions on the CLASS, and see their results when observing children, like with the DRDP or the TS Gold. But how do we plan these interactions, and how do we make them fun, developmentally appropriate, and part of our regular classroom routines? 
 
 One way is to integrate arts-based instruction into our regular instruction.
